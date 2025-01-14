@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    background: url(./imgs/fundo.png);
+    font-family: "Jersey 15", serif;
+    font-size: 62.5%;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 3vh;
+    font-size: 3.5rem;
+}
+
+#alinhar {
+    display: flex;
+    gap: 5vh;
+    flex-direction: column;
+    padding: 6vh 5vw;
+    max-width: 90vw;
+}
+.tamanho {
+    max-width: 70%;
+}
+
