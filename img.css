@@ -16,9 +16,9 @@ img {
 
 #cor {
     height: 3.5vh;
-    background: rgb(14, 8, 48);
     display: flex;
     align-items: center;
+    color: rgb(12, 6, 46);
 }
 button {
     width: 8.0rem;
