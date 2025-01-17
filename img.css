@@ -18,7 +18,7 @@ img {
     height: 3.5vh;
     display: flex;
     align-items: center;
-    color: rgb(12, 6, 46);
+    background-color: rgb(12, 6, 46);
 }
 button {
     width: 8.0rem;
