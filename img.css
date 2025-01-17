@@ -14,6 +14,10 @@ img {
     width: 100%;
 }
 
+#cor {
+    height: 3.5vh;
+    background: rgb(14, 8, 48);
+}
 button {
     width: 8.0rem;
     height: 2.0rem;
