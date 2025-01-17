@@ -16,7 +16,7 @@ img {
 
 #cor {
     height: 3.5vh;
-    background-color: rgb(14, 8, 48);
+    background: rgb(14, 8, 48);
     display: flex;
     align-items: center;
 }
