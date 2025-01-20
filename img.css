@@ -55,7 +55,7 @@ button a {
 @media(min-width: 1200px) {
     button {
     width: 16.0rem;
-    height: 8.0rem;
+    height: 4.0rem;
     border-radius: 1.4rem;
     button a {
     font-size: 1.6rem;
