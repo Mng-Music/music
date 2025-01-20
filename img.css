@@ -53,6 +53,9 @@ button a {
 }
 
 @media(min-width: 1100px) {
+    #cor {
+        height: 6vh;
+    }
     button {
     width: 16.0rem;
     height: 4.0rem;
