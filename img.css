@@ -54,14 +54,14 @@ button a {
 
 @media(min-width: 1100px) {
     #cor {
-        height: 6vh;
+        height: 6.5vh;
     }
     button {
-    width: 16.0rem;
-    height: 4.0rem;
-    border-radius: 1.4rem;
+        width: 16.0rem;
+        height: 4.0rem;
+        border-radius: 1.4rem;
     }
     button a {
-    font-size: 1.6rem;
+        font-size: 1.6rem;
     }
 }
