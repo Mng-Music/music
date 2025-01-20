@@ -51,3 +51,13 @@ button a {
     font-weight: bold;
     background-color: rgb(162, 125, 232);
 }
+
+@media(max-width: 1200px) {
+    button {
+    width: 16.0rem;
+    height: 4.0rem;
+    border-radius: 1.4rem;
+    button a {
+    font-size: 1.6rem;
+    }
+}
